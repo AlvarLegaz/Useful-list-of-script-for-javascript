@@ -1,0 +1,28 @@
+{
+    "users" : [
+        {
+            "user": "Paco",
+            "password": "12345",
+            "position": "Developer",
+            "department":"Engineering",
+            "office": "Murcia",
+            "working": true
+        },
+        {
+            "user": "Maria",
+            "password": "2211",
+            "position": "Data Scientist ",
+            "department":"Engineering",
+            "office": "Madrid",
+            "working": false
+        },
+        {
+            "user": "Marta",
+            "password": "0001",
+            "position": "UX Designer",
+            "department":"Engineering",
+            "office": "Murcia",
+            "working": true
+        }
+    ]
+}
