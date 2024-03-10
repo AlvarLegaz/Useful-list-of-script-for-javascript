@@ -4,7 +4,7 @@ A repository with a list of useful scripts for automating tasks using JavaScript
 ## Scrip to convert a JSON user list in entires for SQL database
 
 In this example, a *json file* (users.json) containing a list of users is available. The goal is to *automatize the process* of inputting the different users into a database.
-´´´
+```
 {
     "users" : [
         {
@@ -33,4 +33,4 @@ In this example, a *json file* (users.json) containing a list of users is availa
         }
     ]
 }
-´´´
+```
