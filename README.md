@@ -1,4 +1,4 @@
-# Useful list of script for javascript
+# Useful scripts for javascript
 A repository with a list of useful scripts for automating tasks using JavaScript.
 
 ## Scrip to convert a JSON user list in entires for SQL database
